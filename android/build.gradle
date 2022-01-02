@@ -1,4 +1,4 @@
-group 'com.zafir.flutter_github_login'
+group 'com.zafir.github_login'
 version '1.0-SNAPSHOT'
 
 buildscript {

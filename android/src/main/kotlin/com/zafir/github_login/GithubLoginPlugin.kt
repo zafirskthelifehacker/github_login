@@ -1,4 +1,4 @@
-package com.zafir.flutter_github_login
+package com.zafir.github_login
 
 import androidx.annotation.NonNull
 
