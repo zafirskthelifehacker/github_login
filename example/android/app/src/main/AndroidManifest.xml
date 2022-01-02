@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.io8.github_login_example">
+    package="com.zafir.flutter_github_login_example">
    <application
         android:label="github_login_example"
         android:icon="@mipmap/ic_launcher">

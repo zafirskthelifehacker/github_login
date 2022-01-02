@@ -1,4 +1,4 @@
-package com.io8.github_login_example
+package com.zafir.flutter_github_login_example
 
 import io.flutter.embedding.android.FlutterActivity
 
