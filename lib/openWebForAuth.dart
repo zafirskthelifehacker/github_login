@@ -35,7 +35,7 @@ class _OpenWebForAuthState extends State<OpenWebForAuth> {
       body: Builder(builder: (BuildContext context) {
         return WebView(
           initialUrl:
-              'https://github.com/login/oauth/authorize?client_id=${widget.clientId}&scope=admin:org%20user%20repo',
+              'https://github.com/login/oauth/authorize?client_id=${widget.clientId}&scope=read:org%20user%20repo',
           javascriptMode: JavascriptMode.unrestricted,
           onWebViewCreated: (WebViewController webViewController) {
             _controller.complete(webViewController);
